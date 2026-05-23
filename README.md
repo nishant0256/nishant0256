@@ -87,7 +87,7 @@ My core strength lies in **Java & Spring Boot**, and I love working on real-worl
 
 ## 📫 Let’s Connect
 
-- 💼 **LinkedIn**: https://www.linkedin.com/in/nishant-kumar-234aaa269/ 
+- 💼 **LinkedIn**: https://www.linkedin.com/in/nishantkumar0256/
 - 🐙 **GitHub**: https://github.com/nishant0256  
 - 📧 **Email**: nishant20kumar1100@gmail.com  
 
